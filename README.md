@@ -233,8 +233,7 @@ The design could be extended in several directions:
 
 - **Hardware Implementation:** Implement the design on a compatible FPGA development board.
 - **Physical Lock Integration:** Interface the control logic with an appropriate locking mechanism.
-- **User Interface:** Add a keypad or other input interface for password entry.
-- **Status Indicators:** Introduce indicators for successful authentication, failed attempts, and lockout status.
+- **User Interface:** Add a keypad or other physical input interface for password entry.
 - **Enhanced Security:** Investigate stronger authentication and password-protection mechanisms.
 - **Extended Verification:** Expand the testbench to cover additional input combinations, reset scenarios, and boundary conditions.
 
@@ -261,6 +260,7 @@ By combining password comparison, control logic, output handling, attempt counti
 Although it remains a software prototype rather than a complete physical security device, it provides a practical foundation for exploring digital authentication and control systems.
 
 <div align="center">
+
 
 **DIGITAL LOCK SYSTEM**
 
