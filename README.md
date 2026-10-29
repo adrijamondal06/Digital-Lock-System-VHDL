@@ -143,19 +143,19 @@ The following screenshots demonstrate the digital lock system's interface and it
 
 The system's initial interface before password verification.
 
-![Initial Interface](screenshots/initial-interface.png)
+![Initial Interface](initial-interface.png)
 
 ### 2. Correct Password
 
 The interface after a correct password is entered, demonstrating the successful authentication path.
 
-![Correct Password](screenshots/correct-password.png)
+![Correct Password](correct-password.png)
 
 ### 3. Incorrect Password
 
 The interface after an incorrect password is entered, demonstrating the failed authentication path.
 
-![Incorrect Password](screenshots/incorrect-password.png)
+![Incorrect Password](incorrect-password.png)
 
 ## Password Verification Logic
 
