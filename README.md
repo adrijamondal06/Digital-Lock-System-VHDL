@@ -143,7 +143,7 @@ The following screenshots demonstrate the digital lock system's interface and it
 
 The system's initial interface before password verification.
 
-![Initial Interface](C:\Users\admin\OneDrive\Documents\DigitalLock_Github\screenshots\initial-interface.png)
+![Initial Interface](screenshots/initial-interface.png)
 
 ### 2. Correct Password
 
