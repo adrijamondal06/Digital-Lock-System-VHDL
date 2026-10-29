@@ -134,6 +134,29 @@ flowchart TD
 | Attempt Counting | Maintains the count used by the lockout logic. |
 | Lockout Handling | Restricts further authentication when the implemented lockout condition is met. |
 
+
+## Screenshots
+
+The following screenshots demonstrate the digital lock system's interface and its behaviour under different authentication conditions.
+
+### 1. Initial Interface
+
+The system's initial interface before password verification.
+
+![Initial Interface](C:\Users\admin\OneDrive\Documents\DigitalLock_Github\screenshots\initial-interface.png)
+
+### 2. Correct Password
+
+The interface after a correct password is entered, demonstrating the successful authentication path.
+
+![Correct Password](screenshots/correct-password.png)
+
+### 3. Incorrect Password
+
+The interface after an incorrect password is entered, demonstrating the failed authentication path.
+
+![Incorrect Password](screenshots/incorrect-password.png)
+
 ## Password Verification Logic
 
 Password verification is the central operation of the system.
